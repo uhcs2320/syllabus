@@ -2,7 +2,7 @@
 
 * **Course** COSC-2320 Computer Science Department, University of Houston
 * **Instructor**: Boanerges Aleman-Meza, bam AT nsm.uh.edu
-* **Office Hours*** Tuesday, Thursday, 1 - 1:30pm (NSMIT), and 2:30-3:30pm (PGH), or by appointment.
+* **Office Hours*** Tuesday, Thursday, 1 - 1:30pm (127 Fleming), and 2:30-3:30pm (PGH 589), or by appointment.
 
 The information contained in this class syllabus is subject to change without notice. Students are expected to be aware of any additional course policies presented by the instructor during the course.
 
@@ -38,7 +38,4 @@ Theory covered in the course:
 4. Proving algorithm correctness
 
 ## Miscellaneous 
-
-Instructor office at NSMIT: 127 Fleming (enter glass door and ask for Aleman); 
-office at PGH: 589 PGH; office phone: 713-743-2657.
-
+[class google-group](https://groups.google.com/forum/#%21forum/uh-cosc2320-spring2016)
