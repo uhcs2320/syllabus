@@ -10,8 +10,8 @@ The information contained in this class syllabus is subject to change without no
 
 ## Major Assignments/Exams: 
 This is a course that gives more weight to homeworks. Grading is as follows:
-70%: 7 programming assignments.
-30%: midterm.
+* 70%: 7 programming assignments.
+* 30%: midterm.
 
 Programming assignments are a fundamental component of learning for this course. All programming homeworks must be turned in to get B-. Programs will be developed in C++ and tested with the GNU C++ compiler. Programming assignments are individual. The TAs will post sample test cases, but the programs will be tested with similar test cases (not the same input files). The programs are thoroughly tested by the TAs, are graded on a 0-100 scale, and there is a severe penalty for each encountered error. A non-submitted program grade is ZERO. A non-working program (i.e., compiles, but does not run) grade is 10. A program with many errors typically reaches 50. Only fully functional programs can be expected to receive 80 or higher. 
 
@@ -38,7 +38,7 @@ Theory covered in the course:
 4. Proving algorithm correctness
 
 ## Miscellaneous 
-Office at NSMIT: 127 Fleming (enter glass door and ask for "Aleman" 
-Office at PGH: 589 PGH.
-Office phone: 713-743-2657.
+
+Instructor office at NSMIT: 127 Fleming (enter glass door and ask for Aleman); 
+office at PGH: 589 PGH; office phone: 713-743-2657.
 
