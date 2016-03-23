@@ -2,7 +2,7 @@
 
 * **Course** COSC-2320 Computer Science Department, University of Houston
 * **Instructor**: Boanerges Aleman-Meza, bam AT nsm.uh.edu
-* **Office Hours*** Tuesday, Thursday, 1 - 1:30pm (127 Fleming), and 2:30-3:30pm (PGH 589), or by appointment.
+* **Office Hours** Tuesday, Thursday, 1 - 1:30pm (127 Fleming), and 2:30-3:30pm (PGH 589), or by appointment.
 
 The information contained in this class syllabus is subject to change without notice. Students are expected to be aware of any additional course policies presented by the instructor during the course.
 
