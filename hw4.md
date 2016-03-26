@@ -38,7 +38,7 @@ Example 1:
     Lexie 20  2
 
 Each line that is not a comment will have exactly three items: name, arrival, and duration. 
-Such items will be separated by tab character.
+Such items will be separated by one tab character.
 There will not be empty lines in the input file but there may be any number of lines with comments.
 
 ## Theory
@@ -53,12 +53,14 @@ Each scheduling policy most likely will produce different outcomes.
 The main program should be called `upfront` and the syntax in which it will be tested is as follows:
 `upfront "input=FILENAME;size=INTEGER;scheduling=SCHEDULE;quantum=NUMBER"`
 
+The parameter `input` specifies the name of the input file.
+
 The parameter `size` specifies the maximum number of items that the queue can contain. 
 
-The parameter `scheduling` indicates the scheduling policy. Scheduling can be `FIFO` for first-in, first-out.
+The parameter `scheduling` indicates the scheduling policy. Scheduling can be `fifo` for first-in, first-out.
 Scheduling can be `roundrobin` for round-robin policy.
 
-The parameter `quantum` applies only to round-robin scheduling.
+The parameter `quantum` applies only to round-robin scheduling. It will always be there with a number but such information can be just ignored for `fifo` scheduling.
 
 ## Assumptions
 
