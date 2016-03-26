@@ -38,4 +38,7 @@ Theory covered in the course:
 4. Proving algorithm correctness
 
 ## Miscellaneous 
-[class google-group](https://groups.google.com/forum/#%21forum/uh-cosc2320-spring2016)
+
+* [class google-group](https://groups.google.com/forum/#%21forum/uh-cosc2320-spring2016)
+
+* [ICS Videos](http://icsvideos.uh.edu/) for the section of this class contains a video example of using GIT to copy yor files to the linux server (instead of doing so via FTP or scp).
