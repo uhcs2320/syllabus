@@ -75,6 +75,7 @@ The first column is the time, the second is the name of the person, the third is
 Your program must follow the output format exactly to facilitate automated grading (and to avoid failing test cases due to things such as output of an empty line at the end).
 
 Output for the input example.  (output is partial, just for illustration purposes).
+
     0   Meredith    4   makeup
     1   Meredith    4   makeup
     2   Meredith    4   makeup
