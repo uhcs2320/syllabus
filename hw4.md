@@ -1,4 +1,4 @@
-# hw4 Makeup Queue
+# hw4 Makeup Queue, due: Monday, April 11, 11:59 p.m.
 
 You will create a C++ program that will simulate the scheduling and time it takes to apply makeup to actors when there is only one person applying makeups. 
 Scheduling of processes in an operating system to simulate multitasking when there is only one processor (based on threads) is done similarly.
