@@ -1,0 +1,62 @@
+#!/bin/bash
+
+# How to call the test program:
+# $ tester <homework #>
+
+# Example test calls:
+#     $ tester 3
+#     $ tester 4
+
+num=$1    # Homework Number
+
+# change directory to the homework folder
+cd /vagrant/hw$num
+
+# compile the program
+echo "COMPILING hw$num..."
+g++ -std=c++11 *.cpp -o hw$num
+
+echo "RUNNING TESTS ON hw$num..."
+
+# for every output file that matches that test number
+for outputfile in $(ls /vagrant/tests/test$num*.output);
+do
+  # extract name of test
+  name=${outputfile/.output/}
+  name=${name/\/vagrant\/tests\/test$num-/}
+
+  # get other filenames
+  argfile=${outputfile/output/args}
+  input1file=${outputfile/output/input1}
+  input2file=${outputfile/output/input2}
+
+  # rewrite arguments
+  args=$(cat $argfile)
+  args=${args/INPUT1/$input1file}
+  args=${args/INPUT2/$input2file}
+
+  # run the program
+  # diff the output with the output file
+  # store the output of the diff in $output
+  output=$(/vagrant/hw$num/hw$num "$args" 2>&1 | diff $outputfile - )
+
+  # if there is output, the test failed
+  if [ -n "$output" ]; then
+    printf "\e[1;31mTEST $name FAILED\e[0m\n"
+
+    printf "\e[1;31mdiff: \e[0m\n"
+
+    # print output of diff
+    printf "\e[1;37m$output\e[0m\n"
+
+    printf "\e[1;31mfull output: \e[0m\n"
+
+    printf "\e[1;37m"
+    /vagrant/hw$num/hw$num "$args"
+    printf "\e[0m\n"
+
+  # if there is no output, the test passed
+  else
+    printf "\e[1;32mTEST $name PASSED\e[0m\n"
+  fi
+done

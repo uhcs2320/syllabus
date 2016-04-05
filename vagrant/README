@@ -1,0 +1,178 @@
+== What is this? ==
+
+  This will allow students in COSC 2320 to share test cases and then easily run
+  the tests in a local development environment similar to the server where we
+  turn in our homework.
+
+
+== Why? ==
+
+  I was tired of fixing bugs in my programs caused by a different version of g++
+  on my computer than on the server. I also wanted to automate running the tests
+  and make it easier for us to share the test case files.
+
+  In class, I heard other students' complaints/cries of anguish and despair so I
+  decided to share this instead of keeping it to myself. I know our professor is
+  working on a solution but I thought others could use it before the next
+  homework is due.
+
+
+== What is Vagrant? ==
+
+  Vagrant is software that automates the process of setting up a server in a
+  virtual machine. A "vagrant box" can be used by anyone on any platform to
+  create an identical working environment.
+
+
+== What is in this Vagrant Box? ==
+
+  Ubuntu 12.04 LTS 64-bit
+  g++ 4.8
+  git
+  tester
+
+
+== What is tester? ==
+
+  A bash shell script I wrote that automatically runs the tests.
+
+
+== How do I install this? ==
+
+  It's easy.
+
+  First, install VirtualBox:
+  https://www.virtualbox.org/wiki/Downloads
+
+  Next, install Vagrant:
+  https://www.vagrantup.com/downloads.html
+
+  Then, install Git (if you don't already have it):
+  https://git-scm.com/downloads
+
+  After that, open a terminal/console and change to the directory where you
+  want to install this. Clone the uhcs2320/syllabus repository:
+
+       git clone https://github.com/uhcs2320/syllabus.git
+
+  Change directory to /vagrant and then:
+
+       vagrant up
+
+  When the installation is complete, log into the virtual machine:
+
+       vagrant ssh
+
+  If you are using Windows, you need to download PuTTY to log into the
+  virtual machine:
+  http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html
+
+
+== How do I use this? ==
+
+  Whatever changes you make to files in the /vagrant directory on the host
+  computer are automatically and instantly reflected in the /vagrant directory
+  in the virtual machine. This means you can continue to use whatever IDE or
+  text editor you prefer to write the code on the host machine.
+
+  The installation script creates directories for each of the homework
+  assignments. These directories have been added to the .gitignore file so you
+  do not have to worry about your homework ending up on Github when you make a
+  push request.
+
+  The installation script also creates a "tests" directory. Add test case files
+  to this directory and push them to Github to share your tests with other
+  students in the class.
+
+  Name test case files like this and place them in the "tests" directory:
+  test#-<name/description>.args
+  test#-<name/description>.input1
+  test#-<name/description>.input2
+  test#-<name/description>.output
+
+  Examples:
+
+  /tests/test2-deletelines.args
+  /tests/test2-deletelines.input1
+  /tests/test2-deletelines.input2
+  /tests/test2-deletelines.output
+
+  /tests/test3-longinputfile.args
+  /tests/test3-longinputfile.input1
+  /tests/test3-longinputfile.output
+
+  /tests/test3-bstroustrup.args
+  /tests/test3-bstroustrup.input1
+  /tests/test3-bstroustrup.output
+
+  /tests/test4-dritchie.args
+  /tests/test4-dritchie.input1
+  /tests/test4-dritchie.output
+
+  /tests/test4-largequeue.args
+  /tests/test4-largequeue.input1
+  /tests/test4-largequeue.output
+
+  The test number should always be the number of the homework assignment the
+  test case is for and there should always be at least a .args, and .output
+  files. Create .input1 and .input2 files only if the assignment requires file
+  input.
+
+  Give the test cases a descriptive name or name them after you.
+
+  .args     The arguments for the test case
+            If there's a place for an input filename in the arguments, replace
+            them with the strings INPUT1 and INPUT2 (if needed).
+            There is no need to enclose the arguments in "".
+
+  .input1   The first input file used in the test case
+  .input2   The second input file used in the test case
+
+  .output   The exact output expected by the test case
+
+
+== How do I run the tests? ==
+
+  Run the tests like this:
+
+      $ tester <#>
+
+  For example,
+
+      $ tester 3
+
+  When you run the program, it will compile *.cpp files in the appropriate
+  homework directory and then run each of the test cases associated with that
+  homework number.
+
+  There will be output indicating whether each test passed or failed. If it
+  failed, it will output the result of the diff showing you how the output of
+  your program is not the same as the correct output in the .output file.
+
+
+== How do I get new tests? ==
+
+  Go to https://github.com/uhcs2320/syllabus. Make sure you are logged in.
+  Click "Watch" and then "Watching". You will now be notified whenever the
+  repository changes. When you get the email notification that new test cases
+  have been added by someone , run "git pull" to download them.
+
+== How do I stop the server? ==
+
+  vagrant halt
+
+== How do I start it again? ==
+
+  vagrant up
+
+== How do I get rid of the box after the semester ==
+
+  vagrant destroy
+
+  This command will not delete your code, only the virtual machine.
+
+
+Created Spring 2016 by
+Joshua Perry
+jperry7@uh.edu
+http://joshperry.me
