@@ -6,7 +6,7 @@ The fundamental data structure will be array-based queues.
 
 ## Input 
 
-The input is a plan-text file, where each line is terminated with an end-of-line character.
+The input is a plain-text file, where each line is terminated with an end-of-line character.
 Each line will identify the time of arrival of an actor or actress as well as the duration to apply his or her make up.
 To simplify we will assume that the time and duration are given in minutes, where the initial time is 0 minutes.
 Lines in the input file that start with the symbol `#` should be considered comments and therefore skipped.
