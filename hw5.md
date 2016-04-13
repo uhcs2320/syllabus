@@ -9,7 +9,7 @@ The fundamental data structure concept to practice is sorting.
 
 ## Input 
 
-The input is a plan-text file, where each line is terminated with an end-of-line character.
+The input is a plain-text file, where each line is terminated with an end-of-line character.
 Each line will identify a candidate to join the fake university. 
 Each line will contain the person name, GPA, QAT score (ficticious standardized test score with range of 0 to 600).
 Lines in the input file that start with the symbol `#` should be considered comments and therefore skipped.
