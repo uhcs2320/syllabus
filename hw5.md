@@ -190,12 +190,12 @@ repository (name the file with prefix `test5-` such as `test4-dallas.txt`).
 * Your choice of what method you will implement has to be set no later than 2 days before the due date. Otherwise there is a penalty of 10 points.
 * The table below shows the selections of sorting algorithms by most students in the class (the ones that show to class, that is)
 
-|Quicksort|Heapsort|Mergesort|InsertSort|
-|:---:|:---:|:---:|:---:|
-|Angela|Vincent|Erick  |Jason|
+|Quicksort|Heapsort|Mergesort|InsertSort|Radix Sort|
+|:---:|:---:|:---:|:---:|:---:|
+|Angela|Vincent|Erick  |Jason|Joshua|
 |Chen  |Jesus  |Justin |Minnah|
 |Nolan |Steve  |Harshin|Julian|
 |Xin   |Nelson |       |Areka|
-|April |Joshua |       |Erin|
+|April |       |       |Erin|
 |Josh  |
 |Brandon K.|
