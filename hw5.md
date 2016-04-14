@@ -169,7 +169,6 @@ Output for the input example with value of `3` for the parameter `pick`.
 
 ## Requirements
 
-* You must build your own sorting method and it has to be defined no later than 2 days before the due date.
 * Place your codes in a folder named: `hw5` (Failure to do so will cause your program to have a zero grade due to inability for doing automated grading).
 * Your program should not produce any unexpected output when it is doing intermediate calculations because doing so will interfere with automated grading and some test cases will fail.
 * You can not assume a maximum number of lines in the input file.
@@ -183,3 +182,19 @@ individuals are to be selected from the highest score individuals not having `do
 The condition to get any extra credit added up beyond 100 points (scale is 0-100), 
 is to share at least one test case via adding a file into the [syllabus](https://github.com/uhcs2320/syllabus) github 
 repository (name the file with prefix `test5-` such as `test4-dallas.txt`).
+
+## Sorting Method
+
+* You must code your own sorting method. It is not allowed to utilize existing sorting methods already implemented elsewhere. 
+* There are several choices of what method you will implement.
+* Your choice of what method you will implement has to be set no later than 2 days before the due date. Otherwise there is a penalty of 10 points.
+* The table below shows the selections of sorting algorithms by most students in the class (the ones that show to class, that is)
+
+|Quicksort|Heapsort|Mergesort|InsertSort|
+|:---:|:---:|:---:|:---:|
+|Angela|Vincent|Erick  |Jason|
+|Chen  |Jesus  |Justin |Minnah|
+|Nolan |Steve  |Harshin|Julian|
+|Xin   |Nelson |       |Areka|
+|April |Joshua |       |Erin|
+|Josh  |
