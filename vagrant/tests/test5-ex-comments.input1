@@ -1,0 +1,36 @@
+# excessive leading comments
+## more comments
+#	candiates
+Meredith	4	599	female	domestic
+# input candidates
+Cristina	4	600	female	domestic
+Alex	2.8	200	male	domestic
+Izzie	1.8	200	female	domestic
+George	1.9	200	unspecified	domestic
+Miranda	1.0	200	female	domestic
+Derek	1.1	300	male	domestic
+# output
+# texting test
+Burke	1.3	100	male	domestic
+Richard	1.3	101	male	domestic
+Jackson	1.4	100	male	domestic
+April	1.5	200	female	farmer
+Owen	1.6	100	male	retired
+Arizona	1.8	202	prefernottoanswer	domestic	
+Callie	1.8	222	prefernottoanswer	domestic
+Erica	1.3	202	prefernottoanswer	domestic
+# things
+####################
+# stuff
+Addison	1.8	209	female	domestic
+Mark	1.9	202	male	domestic
+Teddy	3.8	202	prefernottoanswer	domestic
+Amelia	2.4	404	female	domestic
+# text
+# testing text
+Lexie	2.6	200	female	withdrawn
+MacFarlane	3.9	400	x	australian
+#
+#####
+#
+########################
