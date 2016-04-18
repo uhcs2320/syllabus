@@ -195,7 +195,7 @@ repository (name the file with prefix `test5-` such as `test4-dallas.txt`).
 |Angela|Vincent|Erick  |Jason|Joshua|
 |Chen  |Jesus  |Justin |Minnah|
 |Nolan |Steve  |Harshin|Julian|
-|Xin   |Nelson |       |Areka|
+|Xin   |Nelson |Deandre|Areka|
 |April |       |       |Erin|
-|Josh  |       |        |Brandon C.|
-|Brandon K.|   |        |Don|
+|Josh  |       |       |Brandon C.|
+|Brandon K.|   |       |Don|
