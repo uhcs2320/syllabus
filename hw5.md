@@ -181,7 +181,7 @@ individuals are to be selected from the highest score individuals not having `do
 
 The condition to get any extra credit added up beyond 100 points (scale is 0-100), 
 is to share at least one test case via adding a file into the [syllabus](https://github.com/uhcs2320/syllabus) github 
-repository (name the file with prefix `test5-` such as `test4-dallas.txt`).
+repository (name the file with prefix `test5-` such as `test5-dallas.txt`).
 
 ## Sorting Method
 
