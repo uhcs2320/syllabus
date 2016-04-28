@@ -295,7 +295,7 @@ It is OK for you to assume the following:
 
 ## Extra Credit
 
-(to be determined, if any).
+No extra credit. See hw7 if you're interested in a homework assignment for extra credit.
 
 ## Last note
 
