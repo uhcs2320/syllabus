@@ -29,15 +29,20 @@ do
   argfile=${outputfile/output/args}
   input1file=${outputfile/output/input1}
   input2file=${outputfile/output/input2}
+  input3file=${outputfile/output/input3}
+
 
   # rewrite arguments
   args=$(cat $argfile)
   args=${args/INPUT1/$input1file}
   args=${args/INPUT2/$input2file}
+  args=${args/INPUT3/$input3file}
+
 
   # run the program
   # diff the output with the output file
   # store the output of the diff in $output
+printf "$args\n"
   output=$(/vagrant/hw$num/hw$num "$args" 2>&1 | diff $outputfile - )
 
   # if there is output, the test failed
