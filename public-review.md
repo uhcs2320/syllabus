@@ -40,7 +40,7 @@ Objective: to know what to improve, and to provide this list to students of the 
 
 1. Have "lab" office hours.
 
-2. Evenly distributed grade distribution? Rather than 70/30 only distribution -- maybe have assignments related to theory as well? two tests instead of one heavy weighted test?
+2. Evenly distributed grade distribution. Rather than 70/30 only distribution -- maybe have assignments related to theory as well? two tests instead of one heavy weighted test?
 
 3. 
 
