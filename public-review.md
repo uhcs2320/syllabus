@@ -28,17 +28,19 @@ Objective: to know what to improve, and to provide this list to students of the 
 
 1. The accounts should be created much earlier in the semester.
 
-2. 
+2. More explaination of how to use linux server. 
 
 3. 
 
 4. 
 
-## Other things to improve:
+5.
+
+## Other things to improve/suggestion(s):
 
 1. Have "lab" office hours.
 
-2. 
+2. Evenly distributed grade distribution. Rather than 70/30 only distribution -- maybe have assignments related to theory as well? two tests instead of one heavy weighted test?
 
 3. 
 
