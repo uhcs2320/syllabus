@@ -13,7 +13,7 @@ or there are situations out of control by all students (such as when the Linux a
 
 3. Any lack of politeness, or lack of professional behaviour to other students, instructor, or TAs will not be tolerated. The student with a behaviour out of place will be asked to discuss their situation with the relevant University personnel that is experienced in this matters. The minimum outcome will be an email notification to the student of their unprofessional behaviour, with copy to the academic and/or undergraduate advisor (of the Department).
 
-4. 
+4. It will be extremely unlikely to have re-grading options for programming assignments. We allowed it a bit but it was more of a disappointment by some students (and instructor) than what it seems to have helped.
 
 ## Stuff the instructor needs to improve:
 
