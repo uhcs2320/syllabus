@@ -45,7 +45,7 @@ For the example students input-file and example graph, your program would outpu:
 
 The first three are from the path from ElPaso to Laredo (via DelRio). 
 The rest are from the shortest path from ElPaso to Laredo after two edges are removed from the graph; 
-the path happens to go through Odessa, SanAntonio, Austin, and SanAntonio.
+the path happens to go through Odessa, SanAngelo, Austin, and SanAntonio.
 
 ## Example test cases
 
