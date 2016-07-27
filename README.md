@@ -2,7 +2,7 @@
 
 * **Course** COSC-2320 Computer Science Department, University of Houston
 * **Instructor**: Boanerges Aleman-Meza, bam AT nsm.uh.edu
-* **Office Hours** Tuesday, Thursday, 1 - 1:30pm (127 Fleming), and 2:30-3:30pm (PGH 589), Wedneday 11am-1pm (Fleming 127), or by appointment.
+* **Office Hours** Tuesday, Thursday, 1 - 1:30pm (127 Fleming), and 2:00-2:30pm (Fleming 127), Wedneday 11:00-11:30am (PGH 589), or by appointment.
 
 The information contained in this class syllabus is subject to change without notice. Students are expected to be aware of any additional course policies presented by the instructor during the course.
 
@@ -41,4 +41,6 @@ Theory covered in the course:
 
 * [class google-group](https://groups.google.com/forum/#%21forum/uh-cosc2320-spring2016)
 
-* [ICS Videos](http://icsvideos.uh.edu/) for the section of this class contains a video example of using GIT to copy yor files to the linux server (instead of doing so via FTP or scp).
+* [ICS Videos](http://icsvideos.uh.edu/)
+
+* [External article about 'what is code?'](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
