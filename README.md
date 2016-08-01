@@ -1,8 +1,13 @@
-# Data Structures Syllabus
+# Data Structures Syllabus (Fall 2016)
 
 * **Course** COSC-2320 Computer Science Department, University of Houston
 * **Instructor**: Boanerges Aleman-Meza, bam AT nsm.uh.edu
-* **Office Hours** Tuesday, Thursday, 1 - 1:30pm (127 Fleming), and 2:00-2:30pm (Fleming 127), Wedneday 11:00-11:30am (PGH 589), or by appointment.
+* **Office Hours:** 
+  * Tuesday, Thursday: 
+    * 1 - 1:30pm (127 Fleming)
+    * 2:00-2:30pm (Fleming 127)
+  * Wedneday 11:00-11:30am (PGH 589)
+  * By appointment.
 
 The information contained in this class syllabus is subject to change without notice. Students are expected to be aware of any additional course policies presented by the instructor during the course.
 
@@ -13,7 +18,7 @@ This is a course that gives more weight to homeworks. Grading is as follows:
 * 70%: 7 programming assignments.
 * 30%: midterm.
 
-Programming assignments are a fundamental component of learning for this course. All programming homeworks must be turned in to get B-. Programs will be developed in C++ and tested with the GNU C++ compiler. Programming assignments are individual. The TAs will post sample test cases, but the programs will be tested with similar test cases (not the same input files). The programs are thoroughly tested by the TAs, are graded on a 0-100 scale, and there is a severe penalty for each encountered error. A non-submitted program grade is ZERO. A non-working program (i.e., compiles, but does not run) grade is 10. A program with many errors typically reaches 50. Only fully functional programs can be expected to receive 80 or higher. 
+Programming assignments are a fundamental component of learning for this course. All programming homeworks must be turned in to get B- (that is, when a student misses turning in at least one programming assignment, then the grade for the course will automatically be lower than B-). Programs will be developed in C++ and tested with the GNU C++ compiler. Programming assignments are strictly individual. The TAs will post sample test cases, but the programs will be tested with similar test cases (not the same input files). The programs are thoroughly tested by the TAs, are graded on a 0-100 scale, and there is a severe penalty for each encountered error. A non-submitted program grade is ZERO. A non-working program (i.e., compiles, but does not run) grade is 5. A program with many errors typically reaches 40. Only fully functional programs can be expected to receive 80 or higher. 
 
 **Required Reading**: Malik, D.S. Data Structures Using C++. Course Technology, 2nd edition, 2010.
 
