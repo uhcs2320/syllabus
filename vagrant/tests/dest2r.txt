@@ -1,7 +1,0 @@
-Abiline	SanAntonio
-Abiline	SanAntonio
-SanAntonio	Abiline
-SanAntonio	Abiline
-Abiline	SanAntonio
-SanAntonio	Amarillo
-Abiline	Amarillo

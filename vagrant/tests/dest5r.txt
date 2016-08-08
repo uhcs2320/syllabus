@@ -1,8 +1,0 @@
-A	B
-B	A
-A	B
-B	A
-B	Bminus
-A	island
-island	W
-G	F
