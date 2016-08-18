@@ -63,6 +63,7 @@ Theory covered in the course:
 * Any lack of politeness or lack of professional behaviour to other students, instructor, or TAs will not be tolerated. The student with a bad behaviour will be asked to discuss their situation with the relevant University personnel that is experienced in such matters. The minimum outcome will be an email notification to the student of their unprofessional behaviour, with copy to the academic and/or undergraduate advisor (of the Department).
 * It will be extremely unlikely to have re-grading options for programming assignments. 
 * The inability to use the Liux server where the programming assignments are to be placed, is not an excuse for re-grading or asking for extensions.
+* Policy on grades of I: Incomplete. A grade of Incomplete may be given only under special cases such as medical emergencies. Students will not be given an Incomplete grade for missing turning in their programming assignments or missing the midterm.
 
 
 ## Fun stuff
