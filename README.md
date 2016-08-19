@@ -1,8 +1,15 @@
-# Data Structures Syllabus
+# Data Structures Syllabus (Fall 2016)
 
 * **Course** COSC-2320 Computer Science Department, University of Houston
 * **Instructor**: Boanerges Aleman-Meza, bam AT nsm.uh.edu
-* **Office Hours** Tuesday, Thursday, 1 - 1:30pm (127 Fleming), and 2:30-3:30pm (PGH 589), Wedneday 11am-1pm (Fleming 127), or by appointment.
+* **Office Hours:** 
+  * Tuesday, Thursday: 
+    * 1 - 1:30pm (127 Fleming)
+    * 2:00-2:30pm (Fleming 127)
+  * Wedneday 11:00-11:30am (PGH 589)
+  * By appointment.
+* **TA Office Hours:** 
+  * (to be determined and updated here when available)
 
 The information contained in this class syllabus is subject to change without notice. Students are expected to be aware of any additional course policies presented by the instructor during the course.
 
@@ -10,15 +17,19 @@ The information contained in this class syllabus is subject to change without no
 
 ## Major Assignments/Exams: 
 This is a course that gives more weight to homeworks. Grading is as follows:
-* 70%: 7 programming assignments.
+* 70%: 7 programming assignments (each is worth 10%)
 * 30%: midterm.
 
-Programming assignments are a fundamental component of learning for this course. All programming homeworks must be turned in to get B-. Programs will be developed in C++ and tested with the GNU C++ compiler. Programming assignments are individual. The TAs will post sample test cases, but the programs will be tested with similar test cases (not the same input files). The programs are thoroughly tested by the TAs, are graded on a 0-100 scale, and there is a severe penalty for each encountered error. A non-submitted program grade is ZERO. A non-working program (i.e., compiles, but does not run) grade is 10. A program with many errors typically reaches 50. Only fully functional programs can be expected to receive 80 or higher. 
+Programming assignments are a fundamental component of learning for this course. Every programming assignment must be turned in to get a grade of B- or higher. Programs will be developed in C++ and tested with the GNU C++ compiler. Programming assignments are strictly individual. The TAs will post sample test cases, but the programs will be tested with similar test cases (not the same input files). The programs are thoroughly tested by the TAs to verify that every requirement of the assignment was implemented. The programs are graded on a 0-100 scale, and there is a severe penalty for each encountered error. A non-submitted program grade is ZERO. A non-working program (i.e., compiles, but does not run) grade is 5. A program with many errors typically reaches 40. Only fully functional programs can be expected to receive 80 or higher. 
 
 **Required Reading**: Malik, D.S. Data Structures Using C++. Course Technology, 2nd edition, 2010.
 
 **Recommended Reading**: Any CS book on C++ and discrete mathematics are helpful for additional reference. 
 A good reference for the theory part is the following book: Aho, J.E. Hopcroft, and J.D. Ullman. Data Structures and Algorithms. Addison/Wesley, Redwood City, California, 2nd edition, 1983.
+
+**Recommended Viewing**: 
+  * Sites such as YouTube have a variety of tutorials for most of the topics covered in class.
+  * [ICS Videos](http://icsvideos.uh.edu/)
 
 ## List of discussion/lecture topics:
 
@@ -39,6 +50,22 @@ Theory covered in the course:
 
 ## Miscellaneous 
 
-* [class google-group](https://groups.google.com/forum/#%21forum/uh-cosc2320-spring2016)
+* We will use **Issues** in GitHub for class communications
+* Occasionally there is extra credit.
+* Programming assignments are graded based on whether your program fully works as expected. 
+  * If a program is supposed to do 4 things of equal difficulty, and a program correctly implements only 3 of them, then the grade will not be higher than 75/100
+  * The programs are evaluated with a set of test cases where each test case may have different weight. If one test case is worth, say 10 points, and a program fails such test case, then there are zero points for that test case. 
+* Attendance is not required but it will be taken occasionally for these two purposes:
+  * 1. To have a better chance of remembering a student when asked for a letter of recommendation
+  * 2. To have a record just in case of receiving a valid request (such as from Financial Aid office) about whether a student stopped showing up to class
+* Extensions on programming assignment deadlines may be given but only when there are official University-wide delays, or there are situations out of control by all students (such as when the Linux accounts were delayed).
+* Failing homework 0 (anything below 60) requires that the student talks with an academic advisor if the student decides to continue with the class. 
+* Any lack of politeness or lack of professional behaviour to other students, instructor, or TAs will not be tolerated. The student with a bad behaviour will be asked to discuss their situation with the relevant University personnel that is experienced in such matters. The minimum outcome will be an email notification to the student of their unprofessional behaviour, with copy to the academic and/or undergraduate advisor (of the Department).
+* It will be extremely unlikely to have re-grading options for programming assignments. 
+* The inability to use the Liux server where the programming assignments are to be placed, is not an excuse for re-grading or asking for extensions.
+* Policy on grades of I: Incomplete. A grade of Incomplete may be given only under special cases such as medical emergencies. Students will not be given an Incomplete grade for missing turning in their programming assignments or missing the midterm.
 
-* [ICS Videos](http://icsvideos.uh.edu/) for the section of this class contains a video example of using GIT to copy yor files to the linux server (instead of doing so via FTP or scp).
+
+## Fun stuff
+
+* [External article about 'what is code?'](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)

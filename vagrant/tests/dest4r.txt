@@ -1,6 +1,0 @@
-Austin	Brownsville
-Texarkana	SanAntonio
-Odessa	Beaumont
-Lubbock	Amarillo
-WichitaFalls	Amarillo
-Cuba	Amarillo
