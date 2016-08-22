@@ -10,7 +10,7 @@
   * By appointment.
 * **TA Office Hours:** Daha Fatima Zohra, daha.fatimazohra@gmail.com
   * Wednesday 10:30am-11:30am (PGH 376)
-  * Thursday 2p.m-3p.m (PGH 550E)
+  * Thursday 2:30p.m-3:30p.m (PGH 550E)
 * **Lab office hours:**
   * Wednesday 10:30am-11:30am (PGH 376)
 
