@@ -8,8 +8,9 @@
     * 2:00-2:30pm (Fleming 127)
   * Wednesday 11:00-11:30am (PGH 376)
   * By appointment.
-* **TA Office Hours:** 
-  * (to be determined and updated here when available)
+* **TA Office Hours:** Daha Fatima Zohra, daha.fatimazohra@gmail.com
+  * Wednesday 10:30am-11:30am (PGH 376)
+  * Thursday 2p.m-3p.m (PGH 550E)
 * **Lab office hours:**
   * Wednesday 10:30am-11:30am (PGH 376)
 
