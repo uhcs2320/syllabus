@@ -77,6 +77,10 @@ Theory covered in the course:
 
   1. Syllabus, homework 0, chapter 1 of the book (algorithm analysis).
   2. Review C++ classes, chapter 2.
+    * Difference between structured design and object oriented design?
+    * Operator overloading.
+    * Difference among private, protected, public.
+  3. Arrays, Pointers
 
 ## Fun stuff
 
