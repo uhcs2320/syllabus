@@ -14,7 +14,8 @@
 * **Lab office hours:**
   * Wednesday 10:30am-11:30am (PGH 376)
 * **TA Office Hours:** Cristina M. Morales Mojica, c3m.cmm@gmail.com
-  * TBA
+  * Mon & Wed 3:00pm - 4:30pm (Eng. Building 1 N386)
+  * Wednesday 10:30am - 11:30am (PGH 376)
 
 The information contained in this class syllabus is subject to change without notice. Students are expected to be aware of any additional course policies presented by the instructor during the course.
 
