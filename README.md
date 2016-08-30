@@ -48,10 +48,10 @@ A good reference for the theory part is the following book: Aho, J.E. Hopcroft, 
 8. Graphs, graph traversal, search, path problems, transitive closure 
 
 Theory covered in the course: 
-1. Time complexity analysis
-2. Algorithm design techniques
-3. Recursive functions
-4. Proving algorithm correctness
+  1. Time complexity analysis
+  2. Algorithm design techniques
+  3. Recursive functions
+  4. Proving algorithm correctness
 
 ## Miscellaneous 
 
@@ -73,6 +73,10 @@ Theory covered in the course:
 * Policy on grades of I: Incomplete. A grade of Incomplete may be given only under special cases such as medical emergencies. Students will not be given an Incomplete grade for missing turning in their programming assignments or missing the midterm.
 * Students with disabilities: Any student with a documented disability needing accommodations must speak with the instructor during the first two weeks of class. All discussions will remain confidential. Please remember that the Center for Students with Disabilities has specialists that can help both the student and instructor(s) to help the student to fully participate in class.
 
+## Missed class? This is what is covered each week:
+
+  1. Syllabus, homework 0, chapter 1 of the book (algorithm analysis).
+  2. Review C++ classes, chapter 2.
 
 ## Fun stuff
 
