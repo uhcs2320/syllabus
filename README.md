@@ -86,3 +86,7 @@ Theory covered in the course:
 ## Fun stuff
 
 * [External article about 'what is code?'](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
+
+## GitHub stuff
+
+* [External tutorials about 'Getting started with GitHub'](https://www.youtube.com/playlist?list=PL4Q4HssKcxYsTuqUUvEHJ8XxOVOHTSmle)
