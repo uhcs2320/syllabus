@@ -21,9 +21,11 @@ Example of copying files from a local computer to the linux server. The steps as
    If it is the first time you login to that server, it may ask you about saving the key fingerprint, such as:
 
    ![ssh](img/copy-3.png)
+
    Just type `yes` and hit enter to continue.
 
 3. Then, it is going to ask you for your password, and the command-line prompt will look different because you will be logged in to the linux server:
+
    ![ssh](img/copy-2.png)
 
 4. In the event that you have not changed your password, then set a secure password. The steps will look like this:
