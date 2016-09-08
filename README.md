@@ -87,6 +87,7 @@ Theory covered in the course:
 
 * [External article about 'what is code?'](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
 
-## GitHub stuff
+## Linux, GitHub stuff, etc.
 
 * [External tutorials about 'Getting started with GitHub'](https://www.youtube.com/playlist?list=PL4Q4HssKcxYsTuqUUvEHJ8XxOVOHTSmle)
+* [Software available for UH students](http://uh.edu/infotech/php/software/list.php)
