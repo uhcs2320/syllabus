@@ -57,6 +57,10 @@ Theory covered in the course:
 ## Miscellaneous 
 
 * We will use **Issues** in GitHub for class communications
+  * One person pointed out that there were too many notifications when **watching** the syllabus or the repo for an assignment (such as hw0, or hw1). You could change this via clicking/tapping **Unwatch** and selecting other option.
+  * We will use a google-group (mailing list) that is only for people of this course. Please ask me to add you to the group (either by emailing me or in class).
+  * I have setup a Slack team, please ask me to add you (either by email or in class).
+  * The **official** announcement will always be in either the Syllabus, or in the repository for a respective programming assignment. The other means of communications are intended as a quick way to **notify all** or have additional ways for communication. For example, if anyone says in Slack that a deadline was extended, you need to confirm it by going to the specific repo of the programming assignment.
 * Occasionally there is extra credit such as implementing an additional feature in a programming assignment.
 * Programming assignments are graded based on whether your program fully works as expected. 
   * If a program is supposed to do 4 things of equal difficulty, and a program correctly implements only 3 of them, then the grade will not be higher than 75/100
