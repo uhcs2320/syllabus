@@ -85,7 +85,9 @@ Theory covered in the course:
     * Difference between structured design and object oriented design?
     * Operator overloading.
     * Difference among private, protected, public.
-  3. Arrays, Pointers
+  3. Arrays, Pointers, chapter 3
+  4. (and 5) Linked lists, Doubly linked lists, chapter 5
+  6. Recursion
 
 ## Fun stuff
 
