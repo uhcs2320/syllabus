@@ -1,5 +1,8 @@
 # Data Structures Syllabus (Fall 2016)
 
+### Updates
+  1. "overdue deadline" option has been added for hw2 (additional information is listed on the page for the hw2 assignment).
+
 * **Course** COSC-2320 Computer Science Department, University of Houston
 * **Instructor**: Boanerges Aleman-Meza, bam AT nsm.uh.edu
 * **Office Hours:** 
