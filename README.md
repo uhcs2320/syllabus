@@ -2,6 +2,7 @@
 
 ### Updates
   1. "overdue deadline" option has been added for hw2 (additional information is listed on the page for the hw2 assignment).
+  1. hw3 is available: [hwThree](https://github.com/uhcs2320/hwThree)
 
 * **Course** COSC-2320 Computer Science Department, University of Houston
 * **Instructor**: Boanerges Aleman-Meza, bam AT nsm.uh.edu
