@@ -93,6 +93,15 @@ Theory covered in the course:
   4. (and 5) Linked lists, Doubly linked lists, chapter 5
   6. Recursion
 
+### Bare minimum study for the midterm
+
+  * Ch. 2. Exercises 4, 7, programming exercises: 3
+  * Ch. 3. Exercises 2, 3, 4, 5, 6, 7, 11, programming exercises 2, 3
+  * Ch. 5. Exercises: 2, 5, 8. Programming exercises: 4a, 5a, 6a. Redo using linked lists: programming exercises 2, 3 of Ch. 3. Redo programming exercises 4, 5, 6, 7 of Ch. 6 (but instead of String, it is a list, wherea each node contains 1 character, or number for exercise \#5).
+  * Ch. 6. Exercises: 12,  Programming exercises: 2
+  * Ch. 7. Exercises: 3, 4. Programming exercises: 1 (just a function, no operator overloading needed), 9
+  * Ch. 8. Exercises: 12. 
+
 ## Fun stuff
 
 * [External article about 'what is code?'](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
