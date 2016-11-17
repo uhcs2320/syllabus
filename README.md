@@ -5,6 +5,7 @@
   1. ~~hw3 is available: [hwThree](https://github.com/uhcs2320/hwThree)~~
   1. hw4 is available: [hwFour](https://github.com/uhcs2320/hwFour)
   1. hw5 is available: [hwFive](https://github.com/uhcs2320/hwFive)
+  1. hw6 is available: [hwSix](https://github.com/uhcs2320/hwSix)
 
 * **Course** COSC-2320 Computer Science Department, University of Houston
 * **Instructor**: Boanerges Aleman-Meza, bam AT nsm.uh.edu
