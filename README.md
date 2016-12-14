@@ -1,12 +1,20 @@
 # Data Structures Syllabus (Fall 2016)
 
+### Thanks!
+  1. Grades are posted (in University's online system, not in the linux server)
+  1. I'm not teaching on Spring 2017
+    * But keep in touch, email me when you get stuck on programming assignments/projects
+  1. Please provide feedback to future classmates via [rate professor](http://www.ratemyprofessors.com/ShowRatings.jsp?tid=2142866)
+  1. GitHub short course this Thursday 12/15 1:30pm Fleming 128 (by yours truly).
+  1. Last: click on Unwatch so that no more notifications make it to your inbox.
+
 ### Updates
   1. ~~"overdue deadline" option has been added for hw2 (additional information is listed on the page for the hw2 assignment).~~
   1. ~~hw3 is available: [hwThree](https://github.com/uhcs2320/hwThree)~~
   1. ~~hw4 is available: [hwFour](https://github.com/uhcs2320/hwFour)~~
   1. ~~hw5 is available: [hwFive](https://github.com/uhcs2320/hwFive)~~
-  1. hw6 is available: [hwSix](https://github.com/uhcs2320/hwSix) extended 1 day.
-  1. hw7 is available: [hwSeven](https://github.com/uhcs2320/hwSeven).
+  1. ~~hw6 is available: [hwSix](https://github.com/uhcs2320/hwSix) extended 1 day.~~
+  1. ~~hw7 is available: [hwSeven](https://github.com/uhcs2320/hwSeven).~~
 
 * **Course** COSC-2320 Computer Science Department, University of Houston
 * **Instructor**: Boanerges Aleman-Meza, bam AT nsm.uh.edu
