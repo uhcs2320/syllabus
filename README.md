@@ -4,7 +4,6 @@
   1. Grades are posted (in University's online system, not in the linux server)
   1. I'm not teaching on Spring 2017
     * But keep in touch, email me when you get stuck on programming assignments/projects
-  1. Please provide feedback to future classmates via [rate professor](http://www.ratemyprofessors.com/ShowRatings.jsp?tid=2142866)
   1. GitHub short course this Thursday 12/15 1:30pm Fleming 128 (by yours truly).
   1. Last: click on Unwatch so that no more notifications make it to your inbox.
 
