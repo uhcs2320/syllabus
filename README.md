@@ -16,19 +16,19 @@
   1. ~~hw7 is available: [hwSeven](https://github.com/uhcs2320/hwSeven).~~
 
 * **Course** COSC-2320 Computer Science Department, University of Houston
-* **Instructor**: Boanerges Aleman-Meza, bam AT nsm.uh.edu
+* **Instructor**: Boanerges Aleman-Meza [@bam](https://twitter.com/bam)
 * **Office Hours:** 
   * Tuesday, Thursday: 
     * 1 - 1:30pm (127 Fleming)
     * 2:00-2:30pm (Fleming 127)
   * Wednesday 11:00-11:30am (PGH 376)
   * By appointment.
-* **TA Office Hours:** Daha Fatima Zohra, daha.fatimazohra@gmail.com
+* **TA Office Hours:** Daha Fatima Zohra
   * Wednesday 10:30am-11:30am (PGH 376)
   * Thursday 2:30p.m-3:30p.m (PGH 550E)
 * **Lab office hours:**
   * Wednesday 10:30am-11:30am (PGH 376)
-* **TA Office Hours:** Cristina M. Morales Mojica, c3m.cmm@gmail.com
+* **TA Office Hours:** Cristina M. Morales Mojica
   * Mon & Wed 3:00pm - 4:30pm (Eng. Building 1 N386)
   * Wednesday 10:30am - 11:30am (PGH 376)
 
