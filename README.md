@@ -1,5 +1,9 @@
 # Data Structures Syllabus (Fall 2016)
 
+## Have a great Fall 2017 semester!
+  1. Our office (NSMIT) is hiring part-time students, look at the ad posted at a few places in PGH 5th flooor.
+  1. I'm not teaching on Fall 2017, but I'm starting a new project where it would be great to have students joining.
+
 ### Thanks!
   1. Grades are posted (in University's online system, not in the linux server)
   1. I'm not teaching on Spring 2017
